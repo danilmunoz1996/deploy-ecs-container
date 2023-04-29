@@ -72,7 +72,7 @@ frontend-service
 8. Select the port
 - Review yor Dockerfile to know the port and enter it
 
-9. Copilot answer if you want to deploy a test environment
+9. Copilot ask you if you want to deploy a test environment
 - Enter yes if you want to deploy a test environment
 - I prefer to set the test environment manually and then deploy it, so I enter no
 
